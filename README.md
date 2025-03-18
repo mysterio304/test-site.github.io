@@ -1,1 +1,1 @@
-# A responsive website for a website
+# A responsive design for a website
